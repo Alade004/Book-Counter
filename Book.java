@@ -1,5 +1,3 @@
-//Joshua Aladetan
-//CS201 
 import java.util.Scanner;
 
 public class Book {
